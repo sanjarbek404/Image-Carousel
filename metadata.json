@@ -1,0 +1,5 @@
+{
+  "name": "React Image Carousel",
+  "description": "A responsive image carousel/slider built with React and TypeScript, featuring auto-play and animations.",
+  "requestFramePermissions": []
+}
